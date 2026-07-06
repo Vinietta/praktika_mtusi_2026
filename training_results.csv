@@ -1,0 +1,6 @@
+Model,Epochs,Val Accuracy,Infer Time (s),Size MB
+resnet18,5,0.9946,24.61,42.7
+efficientnet_b0,5,0.9957,27.45,15.5
+mobilenetv3_large_100,5,0.9956,24.92,16.2
+densenet121,5,0.9965,31.91,26.7
+vit_base_patch16_224,5,0.9822,90.81,327.4

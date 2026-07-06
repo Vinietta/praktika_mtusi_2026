@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-07-07 00:24:33",
+    "file": "AppleCedarRust4.JPG",
+    "result": "Apple___Cedar_apple_rust",
+    "confidence": "100.00%"
+  },
+  {
+    "timestamp": "2026-07-07 00:26:45",
+    "file": "AppleCedarRust4.JPG",
+    "result": "Apple___Cedar_apple_rust",
+    "confidence": "100.00%"
+  },
+  {
+    "timestamp": "2026-07-07 00:32:06",
+    "file": "TomatoYellowCurlVirus6.JPG",
+    "result": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "confidence": "100.00%"
+  },
+  {
+    "timestamp": "2026-07-07 00:33:17",
+    "file": "0c55b379-c6e7-4b89-959f-abc506fed437___RS_HL 5927.JPG",
+    "result": "Apple___healthy",
+    "confidence": "95.90%"
+  }
+]
